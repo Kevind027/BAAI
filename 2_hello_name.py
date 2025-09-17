@@ -8,4 +8,4 @@
 # 2. Process
 
 # 3. Output
-print('Hello Kevin!')
+print('Hello Tunghai University!')
