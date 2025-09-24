@@ -1,6 +1,7 @@
 #
-# James
-# Print Hello World!
+# KevinD, 2025/09/24
+# File: 0_template.py
+# Short description of the task
 #
 
 # 1. Input
